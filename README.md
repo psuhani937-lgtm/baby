@@ -56,7 +56,7 @@
 <!-- Background Music -->
 <audio id="bgMusic" loop>
 <!-- Replace this link with any romantic MP3 you like -->
-<source src="https://www2.cs.uic.edu/~i101/SoundFiles/LoveMeTender.mp3" type="audio/mpeg">
+<source src="https://djpunjab.is/bollywood/mast-magan-mp3-song-dszsed.html">
 </audio>
 <script>
    const messages = [
